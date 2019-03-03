@@ -23,9 +23,9 @@ html {
 	margin:10px;
 	padding:20px;
 	font-size:64px;
+  
 }
-.card .front.blocked,
-.card .back.blocked {
+.blocked{
   pointer-events: none;
 }
 
